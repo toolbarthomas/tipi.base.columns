@@ -1,0 +1,25 @@
+{
+    "name": "tipi.base.columns",
+    "version": "3.3.1",
+    "description": "https://github.com/toolbarthomas/tipi.base.columns",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/toolbarthomas/tipi.base.columns.git"
+    },
+    "keywords": [
+        "totem",
+        "tipi"
+    ],
+    "author": "Thomas van der Velde <contact@toolbarthomas.net>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/toolbarthomas/tipi.base.columns/issues"
+    },
+    "homepage": "https://github.com/toolbarthomas/tipi.base.columns#readme",
+    "dependencies": {
+        "bourbon": "^4.3.4"
+    }
+}
