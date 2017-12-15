@@ -1,6 +1,6 @@
 {
     "name": "tipi.base.columns",
-    "version": "3.3.2",
+    "version": "3.3.4",
     "description": "https://github.com/toolbarthomas/tipi.base.columns",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
